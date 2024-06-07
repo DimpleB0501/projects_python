@@ -7,3 +7,6 @@
 ![img](./images/3_elif.png)
 
 ![img](./images/4_multiple_if.png)
+
+![img](./images/5_lo.png)
+
